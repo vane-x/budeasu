@@ -140,6 +140,10 @@ footer {
     
 }
 
+.gradiente-1 {
+    background-image: linear-gradient(to bottom right, rgb(23, 24, 24) 20%, rgb(221, 221, 230), rgb(204, 200, 201) 80%);
+}
+
 #gridAreas {
     display: grid;
     /* 3 columnas y 4 filas */
